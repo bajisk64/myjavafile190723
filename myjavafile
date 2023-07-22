@@ -3,4 +3,9 @@ This is my 2nd line by Developer B
 This is my 3rd line by Developer A
 This is my 4th line by Developer B
 This is my 5th line by Developer A
+<<<<<<< HEAD
 
+=======
+This is my 6th line of java code by Developer B
+This is my 7th line of java code by Developer B again
+>>>>>>> bfba99e663e71b03e5b9f89fa0a169b29cb04aad
